@@ -30,7 +30,7 @@ Compared to the referenced Adaptive-RAG examples, this project adds the followin
 
 The enhanced workflow introduces reflection and memory nodes to the original adaptive RAG loop:
 
-![static\graph.png](static\graph.png)
+![static\graph.png](static/graph.png)
 
 Key design philosophy:
 

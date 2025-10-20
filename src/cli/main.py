@@ -47,10 +47,6 @@ def main():
                 result = answer
             if result:
                 print(f"\nAnswer: {format_response(result)}")
-
-                print("history")
-                history = memory.get_tuple(config)
-                print(history)
             else:
                 print("No response generated.")
 

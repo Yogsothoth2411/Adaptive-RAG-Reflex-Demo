@@ -32,7 +32,7 @@
 
 強化後的工作流程在原始自適應 RAG 迴圈中加入了反思與記憶節點：
 
-![static\Graph_2.png](static\Graph_2.png)
+![static\Graph_2.png](static/Graph_2.png)
 
 主要設計理念：
 

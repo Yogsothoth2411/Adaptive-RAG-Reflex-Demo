@@ -11,6 +11,7 @@ faiss.index
 docker-compose.yml
 .python-version
 .pytest_cache
+Graph.drawio
 # Virtual environments
 .venv
 .env
